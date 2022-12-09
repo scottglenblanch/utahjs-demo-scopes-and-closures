@@ -1,0 +1,26 @@
+body {
+    min-height: 100vh;
+    background-color: rgb(65, 53, 238);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+td {
+    background: white ;
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+}
+
+p {
+    color: white;
+}
